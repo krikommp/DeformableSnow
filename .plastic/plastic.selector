@@ -1,0 +1,4 @@
+repository "DeformableSnow@littledogs@cloud"
+  path "/"
+    br "/main"
+    co "/main"
